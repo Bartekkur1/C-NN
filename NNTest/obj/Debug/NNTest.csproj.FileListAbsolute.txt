@@ -1,0 +1,7 @@
+C:\Users\Ares\Source\Repos\NNTest\NNTest\bin\Debug\NNTest.exe.config
+C:\Users\Ares\Source\Repos\NNTest\NNTest\bin\Debug\NNTest.exe
+C:\Users\Ares\Source\Repos\NNTest\NNTest\bin\Debug\NNTest.pdb
+C:\Users\Ares\Source\Repos\NNTest\NNTest\obj\Debug\NNTest.csprojResolveAssemblyReference.cache
+C:\Users\Ares\Source\Repos\NNTest\NNTest\obj\Debug\NNTest.csproj.CoreCompileInputs.cache
+C:\Users\Ares\Source\Repos\NNTest\NNTest\obj\Debug\NNTest.exe
+C:\Users\Ares\Source\Repos\NNTest\NNTest\obj\Debug\NNTest.pdb
